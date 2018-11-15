@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "Chapter 02 SSAS Multidimensional", "Chapter 02 SSAS Multidimensional\Chapter 02 SSAS Multidimensional.dwproj", "{90504F19-2571-4A31-893C-3B7F54B63AC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90504F19-2571-4A31-893C-3B7F54B63AC2}.Development|Default.ActiveCfg = Development
+		{90504F19-2571-4A31-893C-3B7F54B63AC2}.Development|Default.Build.0 = Development
+		{90504F19-2571-4A31-893C-3B7F54B63AC2}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8345ACAD-DE92-4808-9079-87C28CFE6D61}
+	EndGlobalSection
+EndGlobal
